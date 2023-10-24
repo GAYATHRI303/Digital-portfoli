@@ -1,0 +1,65 @@
+body,h1,h2,h3,h4,u1,li
+{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    font-family:monospace,monospace;
+    background-color: darkblue;
+}
+header{
+    background-color: orangered;
+    color: yellow;
+    text-align:center;
+    padding: 20px 0;
+}
+nav u1{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    background-color:brown ;
+    padding: 10px 0;
+}
+nav li{
+    margin: 0 10px;
+}
+nav a{
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+section{
+    padding: 20px;
+    background-color: lightblue;
+    margin: 20px;
+    box-shadow: 0px 0px 0px rgba(0,0,0,0.2);
+}
+footer{
+    text-align: center;
+    background-color: brown;
+    color: #fff;
+    padding: 10px 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
